@@ -1,0 +1,29 @@
+#crystals {
+	margin-top: 20px;
+	margin-bottom:50px;
+
+}
+
+.crystalImage {
+	height: 111px;
+	margin-left: 10px;
+	cursor: pointer;
+
+}
+body {
+	background-image: url("https://i.pinimg.com/originals/75/63/f9/7563f99c54bc4acd300a960359d14487.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    background-size: cover;
+
+}
+
+h1{
+	text-align: center;
+	color: white;
+    font-size: 70px;
+}
+div {
+    color: white;
+}
